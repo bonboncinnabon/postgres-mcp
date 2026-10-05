@@ -48,11 +48,11 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abiswas97/postgres-mcp.git"
+    "url": "git+https://github.com/bonboncinnabon/postgres-mcp.git"
   },
-  "homepage": "https://github.com/abiswas97/postgres-mcp#readme",
+  "homepage": "https://github.com/bonboncinnabon/postgres-mcp#readme",
   "bugs": {
-    "url": "https://github.com/abiswas97/postgres-mcp/issues"
+    "url": "https://github.com/bonboncinnabon/postgres-mcp/issues"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^0.6.0",

@@ -1,8 +1,8 @@
 # Postgres MCP Server
 
 [![npm version](https://badge.fury.io/js/postgres-mcp-server.svg)](https://www.npmjs.com/package/postgres-mcp-server)
-[![Tests](https://github.com/abiswas97/postgres-mcp-server/actions/workflows/test.yml/badge.svg)](https://github.com/abiswas97/postgres-mcp-server/actions/workflows/test.yml)
-[![GitHub issues](https://img.shields.io/github/issues/abiswas97/postgres-mcp-server)](https://github.com/abiswas97/postgres-mcp-server/issues)
+[![Tests](https://github.com/bonboncinnabon/postgres-mcp/actions/workflows/test.yml/badge.svg)](https://github.com/bonboncinnabon/postgres-mcp/actions/workflows/test.yml)
+[![GitHub issues](https://img.shields.io/github/issues/bonboncinnabon/postgres-mcp)](https://github.com/bonboncinnabon/postgres-mcp/issues)
 
 A Model Context Protocol (MCP) server that provides secure database access to PostgreSQL through Kysely ORM. This server enables Claude Desktop to interact with PostgreSQL databases using natural language.
 
@@ -88,7 +88,7 @@ Edit `claude_desktop_config.json`:
 
 ```bash
 # Clone and install dependencies
-git clone https://github.com/abiswas97/postgres-mcp-server.git
+git clone https://github.com/bonboncinnabon/postgres-mcp.git
 cd postgres-mcp-server
 npm install
 
